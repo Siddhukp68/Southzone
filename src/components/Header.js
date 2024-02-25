@@ -20,20 +20,16 @@ import styles from "@/styles/components/Header.module.scss";
 
 const menuItems = [
 	{
-		text: "Our story",
+		text: "Home",
 		link: "/our-story",
 	},
 	{
-		text: "Be CEO Ready",
+		text: "Projects",
 		link: "/be-ceo-ready",
 	},
 	{
-		text: "Explore membership",
+		text: "Contact Us",
 		link: "/membership",
-	},
-	{
-		text: "Get in touch",
-		link: "/contact",
 	},
 ];
 

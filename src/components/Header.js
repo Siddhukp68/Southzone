@@ -20,7 +20,7 @@ import styles from "@/styles/components/Header.module.scss";
 
 const menuItems = [
 	{
-		text: "Home",
+		text: "Home", 
 		link: "/our-story",
 	},
 	{

@@ -24,7 +24,7 @@ const menuItems = [
 		link: "/our-story",
 	},
 	{
-		text: "Projects",
+		text: "Projects",  
 		link: "/be-ceo-ready",
 	},
 	{

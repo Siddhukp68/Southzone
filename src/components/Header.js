@@ -21,7 +21,7 @@ import styles from "@/styles/components/Header.module.scss";
 const menuItems = [
 	{
 		text: "Home", 
-		link: "/our-story",
+		link: "/",
 	},
 	{
 		text: "Projects",  
@@ -29,7 +29,7 @@ const menuItems = [
 	},
 	{
 		text: "Contact Us",
-		link: "/membership",
+		link: "/contact",
 	},
 ]; 
 

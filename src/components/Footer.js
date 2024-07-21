@@ -92,7 +92,7 @@ const Footer = () => {
 						<div className={`${styles.menu_sec}`}>
 							<div className={`${styles.menu}`}>
 								<div className={`${styles.sub_menu}`}>
-									<Link href="/our-story">
+									<Link href="/">
 										<a>Home</a>
 									</Link>
 								</div>
@@ -102,7 +102,7 @@ const Footer = () => {
 									</Link>
 								</div>
 								<div className={`${styles.sub_menu}`}>
-									<Link href="/membership">
+									<Link href="/contact">
 										<a>Contact Us</a>
 									</Link>
 								</div>
